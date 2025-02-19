@@ -1,4 +1,4 @@
-** The README file for genes identified by Methods A, B, C. and D in our Tumor Supressor Gene (TSG) methylation study. 
+** The README file for genes identified by Methods A, B, C, and D in our Tumor Supressor Gene (TSG) methylation study. 
 
 ** This zip file "Gene.List.by.Methods.ABCD.zip" includes the following folders: 
 
