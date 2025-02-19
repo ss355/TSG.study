@@ -1,6 +1,15 @@
 **# TSG.study
 The README file for genes identified by Methods A, B, C. and D in our Tumor Supressor Gene (TSG) methylation study
 
+This zip file "Gene.List.by.Methods.ABCD.zip" includes the following folders
+
+Gene.Lists.TEXT
+Method_A.Table6.Row1and3
+Method_B.Table6.Row2and4
+Method_C
+Method_D
+R.Code.and.Input
+
 The corresponding R code and Input to obtain the gene list in "Gene.Lists.TEXT" folder 
 are saved in the "R.Code.and.Input" folder. 
 
