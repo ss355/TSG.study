@@ -1,4 +1,4 @@
-# TSG.study
+**# TSG.study
 The README file for genes identified by Methods A, B, C. and D in our Tumor Supressor Gene (TSG) methylation study
 
 The corresponding R code and Input to obtain the gene list in "Gene.Lists.TEXT" folder 
@@ -6,41 +6,41 @@ are saved in the "R.Code.and.Input" folder.
 
 #################################################################################################
 #################################################################################################
-# In the "Gene.Lists.TEXT" folder, we included the lists of genes identified by all 4 methods 
-# (Methods A, B, C, and D), see the number of genes and file names below. 
-# The first 4 files have all the genes shown in the Table 6. 
-# The line number is the TOTAL number of genes shown in Table 6 last column, for example, 
-# "25 Feb15.2025.BRCA.TSG.methodA.gene.list.txt" means that 24 genes + 1 header (or column names)
+ In the "Gene.Lists.TEXT" folder, we included the lists of genes identified by all 4 methods 
+ (Methods A, B, C, and D), see the number of genes and file names below. 
+ The first 4 files have all the genes shown in the Table 6. 
+ The line number is the TOTAL number of genes shown in Table 6 last column, for example, 
+ "25 Feb15.2025.BRCA.TSG.methodA.gene.list.txt" means that 24 genes + 1 header (or column names)
 
-# Folder: Gene.Lists.TEXT
+ Folder: Gene.Lists.TEXT
 
 wc -l *.txt
 
-# TSG and non-TSG genes identified by method A and B, as summarized in Table 6 
+ TSG and non-TSG genes identified by method A and B, as summarized in Table 6 
       25 Feb15.2025.BRCA.TSG.methodA.gene.list.txt
      243 Feb15.2025.BRCA.TSG.methodB.gene.list.txt
      707 Feb15.2025.BRCA.nonTSG.methodA.gene.list.txt
     5344 Feb15.2025.BRCA.nonTSG.methodB.gene.list.txt
 
-# TSG and non-TSG genes identified by method C
+ TSG and non-TSG genes identified by method C
       34 Feb15.2025.BRCA.TSG.methodC.gene.list.txt
       69 Feb15.2025.BRCA.nonTSG.methodC.gene.list.txt
 
-# TSG and non-TSG genes identified by method D
+ TSG and non-TSG genes identified by method D
       31 Feb15.2025.BRCA.TSG.methodD.gene.list.txt
       93 Feb15.2025.BRCA.nonTSG.methodD.gene.list.txt
 
 #################################################################################################
 #################################################################################################
-# For more detailed co-methylation change of these genes, see the following individual folders. 
-# In each folder, in addition to have a CSV file, we also have an EXCEL version each gene list
-# to make it easy for readers to click to open the gene list file. 
+ For more detailed co-methylation change of these genes, see the following individual folders. 
+ In each folder, in addition to have a CSV file, we also have an EXCEL version each gene list
+ to make it easy for readers to click to open the gene list file. 
 
-# Table 6 genes in detail:
+ Table 6 genes in detail:
 
-# In the "Method_A.Table6.Row1and3" and "Method_B.Table6.Row2and4", we have lists of the 
-# separate/individual gene list shown in each cell of Table 6.
-# We provided both CSV and EXCEL version of these individual genes. See detailed 
+ In the "Method_A.Table6.Row1and3" and "Method_B.Table6.Row2and4", we have lists of the 
+ separate/individual gene list shown in each cell of Table 6.
+ We provided both CSV and EXCEL version of these individual genes. See detailed 
 
 Table 6 Counts:
 
@@ -129,3 +129,4 @@ wc -l *.csv
 
 
 
+**
