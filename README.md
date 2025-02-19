@@ -10,9 +10,11 @@
  (6) R.Code.and.Input. 
 
 The corresponding R code and Input to obtain the gene list in "Gene.Lists.TEXT" folder 
-are saved in the "R.Code.and.Input" folder. 
+are saved in the "Code.for.Gene.Lists.TEXT.by.AP" folder. 
 
-
+The corresponding R code and Input to obtain the separate or individual gene list in the other folders 
+(i.e., "Method_A.Table6.Row1and3", "Method_B.Table6.Row2and4", "Method_C", "Method_D") are 
+saved in the "Code.for.Method.ABCD.by.CT" folder. 
 
 
 **
