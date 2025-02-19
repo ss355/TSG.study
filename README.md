@@ -13,8 +13,8 @@ R.Code.and.Input
 The corresponding R code and Input to obtain the gene list in "Gene.Lists.TEXT" folder 
 are saved in the "R.Code.and.Input" folder. 
 
-#################################################################################################
-#################################################################################################
+#####################################################################
+#####################################################################
  In the "Gene.Lists.TEXT" folder, we included the lists of genes identified by all 4 methods 
  (Methods A, B, C, and D), see the number of genes and file names below. 
  The first 4 files have all the genes shown in the Table 6. 
@@ -39,8 +39,8 @@ wc -l *.txt
       31 Feb15.2025.BRCA.TSG.methodD.gene.list.txt
       93 Feb15.2025.BRCA.nonTSG.methodD.gene.list.txt
 
-#################################################################################################
-#################################################################################################
+#####################################################################
+#####################################################################
  For more detailed co-methylation change of these genes, see the following individual folders. 
  In each folder, in addition to have a CSV file, we also have an EXCEL version each gene list
  to make it easy for readers to click to open the gene list file. 
@@ -89,7 +89,7 @@ wc -l *csv
  606 Aug12.2022.nonTSG.Overlap.shutting.neg.only.alive.genes.freq3.csv
   68 Aug12.2022.nonTSG.Overlap.shutting.pos.only.alive.genes.freq3.csv
   
-#################################################################################################
+#####################################################################
 Method B - TSG counts:
 
 These counts correspond to the 2nd row of Table 6 and are listed in order of the columns the same way that the files in the previous section are. 
@@ -118,7 +118,7 @@ wc -l *csv
   101 Aug12.2022.nonTSG.Overlap.shutting.neg.only.dead.genes.freq3.csv
  2194 Aug12.2022.nonTSG.Overlap.shutting.pos.only.dead.genes.freq3.csv
 
-#################################################################################################
+#####################################################################
 Method C - TSG and non-TSG gene list 
 Folder: Method C 
 wc -l *.csv   
@@ -126,7 +126,7 @@ wc -l *.csv
       34 Aug23.2022.onlyTSG.overlapgenes.in.alive.dead.panels4.freq3.csv
       69 Aug23.2022.nonTSG.Overlapgenes.in.alive.dead.panels4.freq3.csv
 
-#################################################################################################
+#####################################################################
 Method D - TSG and non-TSG gene list 
 Folder: Method D 
 
